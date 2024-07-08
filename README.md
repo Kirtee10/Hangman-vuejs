@@ -1,6 +1,6 @@
 # Hangman (hangman)
 
-A Quasar Project
+A simple hangman game using Vue js 3 Composition Api with script setup tag
 
 ## Install the dependencies
 ```bash
